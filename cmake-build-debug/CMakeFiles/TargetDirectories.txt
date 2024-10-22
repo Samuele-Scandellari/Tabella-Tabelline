@@ -1,0 +1,3 @@
+C:/Users/Utente/Tabella tabelline/cmake-build-debug/CMakeFiles/Tabella_tabelline.dir
+C:/Users/Utente/Tabella tabelline/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Utente/Tabella tabelline/cmake-build-debug/CMakeFiles/rebuild_cache.dir
